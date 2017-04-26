@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FootballCounter</string>
+    <string name="teamhint">Enter Team Name</string>
+    <string name="HomeTeamScore">0</string>
+    <string name="AwayTeamScore">0</string>
+    <string name="AwayTeamYellow">0</string>
+    <string name="AwayTeamRed">0</string>
+    <string name="HomeTeamRed">0</string>
+    <string name="HomeTeamYellow">0</string>
+    <string name="Score">-</string>
+    <string name="YellowCards">YELLOW CARDS</string>
+    <string name="RedCards">RED CARDS</string>
+    <string name="Goals">GOALS</string>
+    <string name="Goal">Goal!</string>
+    <string name="Yellow">YELLOW CARD</string>
+    <string name="Red">RED CARD</string>
+    <string name="Reset">RESET</string>
+</resources>
